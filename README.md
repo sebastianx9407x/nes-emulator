@@ -63,10 +63,6 @@ To get started with the NES emulator, follow these steps:
     - `F5`: Save state
     - `F7`: Load state
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to OneLoneCoder for the excellent tutorial series on building an NES emulator. You can find the tutorial [here](https://www.youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO).
